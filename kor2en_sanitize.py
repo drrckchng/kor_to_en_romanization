@@ -6,7 +6,7 @@ from hangul_romanize.rule import academic
 from alphabet_detector import AlphabetDetector
 
 
-path = 'C:\\Users\\matt\\Music\\test\\'
+path = 'C:\\Users\\user\\Music\\test\\'
 
 def kor2en(str):
     ad = AlphabetDetector()
